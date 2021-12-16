@@ -44,5 +44,14 @@
                 android:textSize="@dimen/feels_like_text_size"
                 tools:text="0" />
         </LinearLayout>
+
+        <Button
+            android:id="@+id/calcThreadBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_5_dp"
+            android:text="@string/calc_in_thread"
+            android:textSize="@dimen/feels_like_text_size" />
+
     </LinearLayout>
 </ScrollView>
