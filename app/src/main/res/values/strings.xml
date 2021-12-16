@@ -3,8 +3,8 @@
     <string name="threads">Threads</string>
     <string name="in_main_thread">В главном потоке</string>
     <string name="from_thread">Из потока %d</string>
-    <string name="in_thread">Выводим в потоке %s</string>
-    <string name="calculate_in_thread">Считаем в потоке %s</string>
+    <string name="in_thread">Выводим в потоке: %s</string>
+    <string name="calculate_in_thread">Считаем в потоке: %s</string>
     <string name="my_handler_thread">My_Handler_Thread</string>
     <string name="hello_from_thread_fragment">Hello from ThreadsFragment</string>
     <string name="calculate">Расчёт</string>
